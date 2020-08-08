@@ -59,7 +59,7 @@ def monopoly_with_fourth_tier
       :four_pieces_owned => 200
     },
     :names => {
-      :reading_railroad =>{
+      :reading_railroad => {
         :mortgage_value => 100
       },
       :pennsylvania_railroad => {
